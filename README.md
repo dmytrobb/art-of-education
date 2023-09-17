@@ -10,10 +10,6 @@ _**EduArt** - **The Art of Education** is an e-learning platform and online camp
 
 ---
 
-[Video](https://youtu.be/YqVZnRgwgsc)
-
----
-
 ![Home page](./public/images/home-page.png)
 ![Online courses](./public/images/online-courses.png)
 ![Learning desk](./public/images/learning_desk.png)
@@ -25,25 +21,3 @@ _**EduArt** - **The Art of Education** is an e-learning platform and online camp
 ## Technologies
 
 HTML5,CSS3, JavaScript, React, Flexbox Layout, React Router v6, Material UI, Node.js, Express.js, Mongo DB
-
----
-
-## Team
-
-UI/UX:
-
-[Mercedes Girmanova](https://www.linkedin.com/in/mercedes-girmanova/)
-
-Frontend Development:
-
-[Oxana Danilova](https://www.linkedin.com/in/oxana-danilova-b082a0156/)
-
-[Luay Abbas](https://www.linkedin.com/in/luay-abbas-79531a24a/)
-
-Backend Development:
-
-[Joachim Ritter](https://www.linkedin.com/in/joachimr/)
-
----
-
-Made with ❤️
